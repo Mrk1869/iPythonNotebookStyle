@@ -4,7 +4,7 @@ Apply custom styles to your iPython Notebook.
 
 ## Feature
 
-![]("sample.png")
+<img src="./sample_image.png" width=50%>
 
 ## Usage
 
